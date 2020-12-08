@@ -1,7 +1,7 @@
 # ueditor-spring-boot-starter
 
 ## 概述
-重构UEditor富文本编辑器服务端，该服务端不支持以下功能：
+UEditor富文本编辑器服务端，该服务端不支持以下功能：
 - 远程图片抓取
 
 ## 使用方法
